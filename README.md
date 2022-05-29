@@ -1,5 +1,5 @@
-# GraphCMS Headless Blog
-### [Live Site](https://nextjs-plum-five-51.vercel.app/)
+# GraphCMS Blog
+### [Live Site](https://graphcms-blog-6azn049td-rqpedia.vercel.app/)
 
 ![GraphCMS Headless Blog](https://i.ibb.co/NmnJnKD/image.png)
 
